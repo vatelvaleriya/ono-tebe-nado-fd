@@ -142,9 +142,7 @@
     min-height:596px;
 }
 
-.card-link, 
-.card 
- {
+.card-link, .card {
     height: 100%;
 }
 
@@ -208,7 +206,7 @@
     width: 240px;
     height:240px;
     border-radius: 50%; 
-    display: flex;    
+    display: flex;
     justify-content: center;
     align-items: center;
 }
